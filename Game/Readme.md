@@ -1,0 +1,1 @@
+# Small example of a simple "Simon Says" game
